@@ -50,6 +50,6 @@ pip install numpy pandas scipy matplotlib seaborn scikit-learn mne pyriemann
 ```
 Open any desired Jupyter Notebook sequentially to run the full processing loop:
 ```bash
-jupyter notebook Assignment_1_CSP_LDA_MotorImagery.ipynb
+jupyter notebook EEG_Motor_Imagery_Classification.ipynb
 ```
 
