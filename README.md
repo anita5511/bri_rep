@@ -1,6 +1,6 @@
 README.md File Documentation
 
-# EEG Signal Processing and Classification Repository
+# EEG Signal Processing and Classification
 
 This repository contains the complete codebase, execution notebooks, and comprehensive analysis for 8 structural research assignments completed during my 3-month engineering internship at Brainwave Science.
 
